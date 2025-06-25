@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a 2nd-year student at the Faculty of Artificial Intelligence, Menoufia University.
+- 🎓 I'm a 3nd-year student at the Faculty of Artificial Intelligence, Menoufia University.
 - 🧠 I'm passionate about building real-world applications using **Python**, **Machine Learning**, and **Computer Vision**.
 - 💻 I’ve worked on projects such as:
   - LED control with hand gestures (OpenCV + Arduino)
@@ -36,16 +36,16 @@
 ### 🌐 Connect With Me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/youssef atef" target="_blank">
+  <a href="www.linkedin.com/in/youssef-atef-810049313" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/youssef atef" target="_blank">
+  <a href="https://stackoverflow.com/users/30474649/youssef-atef" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/youssefatef442006" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://fb.com/youssef atef" target="_blank">
+  <a href="https://web.facebook.com/youssef.atef.5872" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/youssefatef35" target="_blank">
